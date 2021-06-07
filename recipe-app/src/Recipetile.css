@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+.card {
+  font-family: "Lato", sans-serif;
+}
+.calories {
+  font-weight: 600;
+}
+.btn {
+  width: 100%;
+}

@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+.input-container {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Pattaya", sans-serif;
+}
+input {
+  margin-top: 10px;
+}
+.loader {
+  font-weight: 700;
+  font-size: 30px;
+}
